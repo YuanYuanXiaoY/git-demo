@@ -13,4 +13,4 @@ hello xiaoy! hello git!
 hello xiaoy! hello git!
 hello xiaoy! hello git!
 hello xiaoy! hello git!
-hello xiaoy! hello git!
+hello xiaoy! hello git! hot-fix test 
